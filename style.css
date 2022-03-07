@@ -1,0 +1,26 @@
+button
+{
+  background-color: red;
+  color: #fff;
+  border: 0px;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+}
+button:hover
+{
+  background-color: white;
+  transition: 1s;
+  cursor : pointer;
+
+}
+body, html {
+  background-image: url('https://www.theoaklandpress.com/wp-content/uploads/2021/06/TOP-L-GoDoCircus0702.jpg');
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+footer {
+  padding-top: 700px;
+}
